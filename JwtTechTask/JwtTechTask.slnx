@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="JwtTechTask.Tests/JwtTechTask.Tests.csproj" />
+  <Project Path="JwtTechTask/JwtTechTask.csproj" />
+</Solution>
